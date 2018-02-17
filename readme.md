@@ -583,6 +583,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+- [Placeholders](https://github.com/dawehner/awesome-placeholders) - A list of placeholders APIs / services.
 
 
 ## License
